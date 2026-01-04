@@ -1,3 +1,4 @@
+Java edition
 
 # Welcome to the PojavLauncher Wiki!
 ____
